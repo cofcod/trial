@@ -11,5 +11,6 @@
          [:body content]))
 
 (defn index []
-  (layout [:h1 "welcome"]
-          [:div "to codenamu!"]))
+  (layout [:h1 "환영합니다!"]
+          [:div "to codenamu!"])
+  (/ 10 0))
