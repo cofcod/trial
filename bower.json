@@ -1,0 +1,22 @@
+{
+  "name": "cofcod",
+  "version": "0.0.1",
+  "authors": [
+    "커피와코드 <cofcod@hatemogi.com>"
+  ],
+  "description": "Coffee & Code trial project",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4",
+    "font-awesome": "~4.3.0",
+    "vue": "~0.12.1"
+  }
+}
